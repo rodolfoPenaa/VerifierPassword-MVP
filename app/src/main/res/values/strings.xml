@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="weakLevel">WEAK</string>
+    <string name="mediumLevel">MEDIUM</string>
+    <string name="strongLevel">STRONG</string>
+    <string name="veryStrongLevel">VERY STRONG</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
